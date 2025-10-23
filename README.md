@@ -6,8 +6,6 @@
 
 一个帮助你做出理性消费决策的命令行工具。基于"需求-价值-回报"（NVR）模型，通过量化分析告诉你：**不是"它值多少钱"，而是"它对我值多少钱"。**
 
-![Demo](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=NVR+Analyzer+Demo)
-
 ## ✨ 特性
 
 - 🎯 **七维度需求评估** - 从安全、健康、时间、自由、连接、成长、意义全方位分析
@@ -243,8 +241,8 @@ nvr-analyzer/
 
 ## 📞 联系方式
 
-- **作者**：YourName
-- **邮箱**：your.email@example.com
+- **作者**：GoodbyeAntwerBlue
+- **邮箱**：byeantwerpblue@gmail.com
 - **项目主页**：https://github.com/GoodbyeAntwerpBlue/nvr-analyzer
 
 ## ⭐ Star History
