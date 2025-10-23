@@ -1,0 +1,7 @@
+# NVR Analyzer - Python Dependencies
+
+# 本项目无需外部依赖，仅使用Python标准库
+# No external dependencies required - uses only Python standard library
+
+# Python版本要求 / Python version requirement
+# python>=3.6
